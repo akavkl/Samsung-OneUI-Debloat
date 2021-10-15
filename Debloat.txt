@@ -167,9 +167,15 @@ adb shell pm uninstall -k --user 0 com.diotek.sec.lookup.dictionary
 adb shell pm uninstall -k --user 0 com.facebook.appmanager
 adb shell pm uninstall -k --user 0 com.samsung.android.mfi
 adb shell pm uninstall -k --user 0 com.mygalaxy
+adb shell pm uninstall -k --user 0 com.android.chrome
 adb shell pm uninstall -k --user 0 com.microsoft.office.officehubrow
 adb shell pm uninstall -k --user 0 com.opera.max.oem
 adb shell pm uninstall -k --user 0 com.samsung.android.app.notes.addons
 adb shell pm uninstall -k --user 0 com.samsung.android.messaging
 adb shell pm uninstall -k --user 0 com.sec.android.mimage.avatarstickers
+adb shell pm uninstall -k --user 0 com.sec.android.app.sbrowser
 adb shell pm uninstall -k --user 0 com.samsung.android.game.gamehome
+adb shell pm uninstall -k --user 0 com.facebook.katana
+adb shell pm uninstall -k --user 0 com.google.android.feedback
+adb shell pm uninstall -k --user 0 com.qualcomm.qti.qms.service.telemetry
+adb shell pm uninstall -k --user 0 com.microsoft.skydrive
