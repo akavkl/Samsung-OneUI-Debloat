@@ -22,9 +22,9 @@ adb shell pm uninstall -k --user 0 com.samsung.android.cidmanager
 adb shell pm uninstall -k --user 0 com.samsung.cmh
 adb shell pm uninstall -k --user 0 com.mediatek
 adb shell pm uninstall -k --user 0 com.mediatek.systemuiresoverlay
-adb shell pm uninstall -k --user 0 com.samsung.android.accessibility.talkback
+#adb shell pm uninstall -k --user 0 com.samsung.android.accessibility.talkback
 adb shell pm uninstall -k --user 0 com.samsung.android.appseparation
-adb shell pm uninstall -k --user 0 com.samsung.android.callbgprovider
+#adb shell pm uninstall -k --user 0 com.samsung.android.callbgprovider
 adb shell pm uninstall -k --user 0 com.samsung.android.cmfa.framework
 adb shell pm uninstall -k --user 0 com.samsung.android.hdmapp
 adb shell pm uninstall -k --user 0 com.samsung.android.knox.attestation
