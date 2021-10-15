@@ -48,7 +48,7 @@ adb shell pm uninstall -k --user 0 com.samsung.memorysaver
 adb shell pm uninstall -k --user 0 com.sec.android.app.chromecustomizations
 adb shell pm uninstall -k --user 0 com.sec.bcservice
 adb shell pm uninstall -k --user 0 com.sec.enterprise.knox.attestation
-adb shell pm uninstall -k --user 0 com.sec.epdg
+#adb shell pm uninstall -k --user 0 com.sec.epdg
 adb shell pm uninstall -k --user 0 com.samsung.android.app.omcagent
 adb shell pm uninstall -k --user 0 com.samsung.android.providers.carrier
 adb shell pm uninstall -k --user 0 com.samsung.android.sdm.config
